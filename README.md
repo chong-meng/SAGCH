@@ -8,8 +8,4 @@
 
 We release the three experimental datasets as follows:
 
-- MIRFlickr, [[Baidu Pan](https://pan.baidu.com/s/1zv72jFR-L91vOOK5MUUoOw?pwd=1a30)]
-- NUS-WIDE, [[Baidu Pan](https://pan.baidu.com/s/1v9C2M_jL593PKtaRFkPyZw?pwd=8qwm)]
-- MS COCO, [[Baidu Pan](https://pan.baidu.com/s/14nq1mYz7-75O0aDsuOhExA?pwd=537l)]
-
-
+- MIRFlickr,NUS-WIDE,MS COCO, [[Baidu Pan](https://pan.baidu.com/s/1etcI9g-4Dbq3HjZQ83H5Lg?pwd=6bi9)]
